@@ -18,7 +18,14 @@ nltk installation: pipenv install nltk
 To run the project: pipenv run python project3.py --document "CA FRENSO.pdf"
 To run the pytests: pipenv run python -m pytest
 
+
 # Video:
+
+
+https://user-images.githubusercontent.com/114453047/236927616-abb129ee-a9cf-4f38-b6f8-26f083585960.mp4
+
+
+
 
 ## Files
 # project3.ipynb
@@ -35,6 +42,7 @@ The project proceeds to determine the optimal k value for each clustering algori
 The resulting model is saved as "model.pkl".
 
 Finally, the output data is saved as a file named "smartcity_eda.tsv".
+
 
 
 # project3.py
